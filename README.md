@@ -1,6 +1,4 @@
-This program needs to be ran in a Linux enviroment that has the compiler tools flex and bison, make, and the g++ GNU compiler. I personally used a VM running Ubuntu.
-To run this program open the terminal to this files directory, then type "./compile< (NAMEOFFILE).txt". It should either print out the compiled program file, and if 
-there are issues in the code it will print out an error message explaining what the error is and what is causing it. 
+This program needs to be ran in a Linux enviroment that has the compiler tools flex and bison, make, and the g++ GNU compiler. I personally used a VM running Ubuntu. To run this program open the terminal to this files directory, then type "./compile< (NAMEOFFILE).txt". It should either print out the compiled program file, and if there are issues in the code it will print out an error message explaining what the error is and what is causing it. While not my first project done in an Unbutu enviroment, it was the first where I truly felt I could focus on the code because I was familiar enough working in it. It also gave me valuable insight into how compilers read the syntax of a language.
 Samples of output code in screenshots: 
 <img width="1382" height="605" alt="Test2Actual" src="https://github.com/user-attachments/assets/9f7a221d-8e66-490e-84c1-5a24b5ae0f2c" />
 <img width="1389" height="405" alt="Test4actual" src="https://github.com/user-attachments/assets/6e737c48-016d-4b82-99be-f7d0aacc92e3" />
